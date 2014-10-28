@@ -2,7 +2,7 @@ codegoeshere
 ============
 pdml2arff.py allows one to export the entire contents of a pcap file into an arff file (with the help of tshark creating a pdml).
 
-There are a handful of applications and utilities which seem to export *some* of a pcap, but we  wanted ALLLLL of the pcap, not just parts of it.  You'll probably still have to do quite a bit of pre-processing to make any use of the data in Weka, but as far as I can tell this gives you a full pcap converted to Weka format (ARFF).
+There are a handful of applications and utilities which seem to export *some* of a pcap, but we  wanted ALLLLL of the pcap, not just parts of it.  You'll probably still have to do quite a bit of pre-processing to make any use of the data in Weka.
 
 Here are the usage notes:
 
